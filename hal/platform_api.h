@@ -19,7 +19,7 @@
 
 #ifndef AUDIO_PLATFORM_API_H
 #define AUDIO_PLATFORM_API_H
-#include <sound/voice_params.h>
+#include <kernel/xiaomi/daisy/techpack/audio/include/uapi/sound/voice_params.h>
 #include "audio_hw.h"
 #include "voice.h"
 
